@@ -1,0 +1,7 @@
+http://blog.turn.tw/?p=2821
+
+https://leetcode.com/problems/reverse-integer/description/
+
+https://leetcode.com/problems/missing-number/description/
+
+https://leetcode.com/problems/roman-to-integer/
